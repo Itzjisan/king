@@ -399,7 +399,7 @@ logo = """
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹
 \33[1;41m     POWERD BY  Itz Jisan   NEW PUBLIC TOOLS 💛👈\33[0m
 \x1b[1;97m🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸
-\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :   IT'Z JISA
+\x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :   IT'Z JISAN
 
 \x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞:   It'z Jisan Xhowdhury 
 
@@ -450,7 +450,7 @@ class Main:
 			time.sleep(3.0)
 			os.system("clear")
 		 
-		os.system(' espeak -g 6 "hello usar welcome The Jisan world And Enjoy The Tools , bye guys"')
+		os.system(' espeak -g 2 "hello usar welcome The Jisan world And Enjoy The Tools , bye guys"')
 		print(logo)
 		print(" [+]𝗠𝗘𝗡𝗨  𝗠𝗘𝗧𝗛𝗢𝗗")
 		print("\033[1;37m  🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹")
