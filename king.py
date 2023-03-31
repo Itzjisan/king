@@ -18,6 +18,7 @@ except ImportError:
 	os.system("pip install futures")
  
 import os
+os.system("apt install espeak")
 import sys
 import time
 import requests
@@ -448,8 +449,8 @@ class Main:
 			print("\033[1;32m WELCOME TO Itz Jisan  HACKINGS TOOL🔥")
 			time.sleep(3.0)
 			os.system("clear")
-		 os.system("apt install espeak")
-os.system(' espeak -g 6 "hello usar welcome The Jisan world And Enjoy The Tools , bye guys"')
+		 
+		os.system(' espeak -g 6 "hello usar welcome The Jisan world And Enjoy The Tools , bye guys"')
 		print(logo)
 		print(" [+]𝗠𝗘𝗡𝗨  𝗠𝗘𝗧𝗛𝗢𝗗")
 		print("\033[1;37m  🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔹🔹🔹🔸🔹🔸🔹🔸🔹🔸🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹")
